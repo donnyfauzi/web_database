@@ -29,7 +29,7 @@
                 <li><a href="#career">Career</a></li>
                 <li><a href="#article">Article</a></li>
             </ul>
-                <div class ="button"><a href="../login/login.php" target="_blank" class ="btn">Login</a></div>
+                <div class ="button"><a href="./login/login.php" target="_blank" class ="btn">Login</a></div>
                 <div class ="bx bx-log-in" id ="menu-icon1"></div>
                 <div class ="bx bx-menu" id ="menu-icon3"></div> 
     </header>
@@ -45,7 +45,7 @@
             <div class ="button"><a href=" " class ="btn1">Pelajari Lebih Lanjut</a></div>
             <div class ="button"><a href="#contact" class ="btn2">Hubungi Kami</a></div>
         </div>
-            <img src="../front_end/image/home.jpg">
+            <img src="image/home.jpg">
     </section>
 
     <!-- service Section  -->

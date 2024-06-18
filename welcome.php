@@ -20,7 +20,7 @@ $_SESSION['username'];
     <div class="container">
 <h3>Welcome,  <span><?=$_SESSION['name'];?></span></h3>
 <p>Your Email id is : <h6><?=$_SESSION['username'];?></h6></p>
-<a href="../front_end/home.php" class="btn">LOGOUT</a>
+<a href="home.php" class="btn">LOGOUT</a>
 </div>
 
  
